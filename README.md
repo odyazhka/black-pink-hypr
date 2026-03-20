@@ -100,16 +100,3 @@ https://fontstruct.com/fontstructions/show/1765530/pixellocale-v-1-4
 Скачанную папку wlogout перенесите в */etc*. Понадобятся рут права, можно перенести сначала в корень *~/* а потом использовать команду:
 
 ```sudo mv ~/wlogout /etc/```
-
-
-
-#### 5. Курсор и иконки
-
-Курсор я взял отсюда:
-
-https://www.gnome-look.org/p/1914826
-
-Иконки отсда:
-
-https://github.com/vinceliuice/Tela-circle-icon-theme
-
